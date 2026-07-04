@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 
 
 # Abandonded_Toy_Robot
